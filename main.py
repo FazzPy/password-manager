@@ -113,22 +113,6 @@ def giris():
         spotifyent = Entry(font="Verdana 12", state="readonly", textvariable=spotify_password_v)
         spotifyent.place(x=100, y=85)
 
-        Twitch = Label(text="Twitch : ", font="Arial 14")
-        Twitch.place(x=20, y=115)
-
-        twitch_password = "twitchpassword"
-        twitch_password_v = StringVar(value=twitch_password)
-        twitchent = Entry(font="Verdana 12", state="readonly", textvariable=twitch_password_v)
-        twitchent.place(x=100, y=120)
-
-        Cisco = Label(text="Cisco : ", font="Arial 14")
-        Cisco.place(x=20, y=145)
-
-        cisco_password = "ciscopassword"
-        cisco_password_v = StringVar(value=cisco_password)
-        ciscoent = Entry(font="Verdana 12", state="readonly", textvariable=cisco_password_v)
-        ciscoent.place(x=100, y=150)
-
         label5 = Label(text="Made By Fazz Tech", fg="green", font="Impact 32")
         label5.place(x=300, y=250)
 
