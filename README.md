@@ -4,4 +4,3 @@
 Not : Eğer Mail - Password girmezseniz program çalışmaz, daha az güvenlikli olur ve şifremi unuttum kullanılamaz.
 Discord : Fazz#9999
 Instagram : fazz.py
-Web : https://www.fazztech.org
